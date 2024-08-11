@@ -1,4 +1,9 @@
 # EPFLLaMA: A Lightweight LLM Finetuned on EPFL Curriculum
+<p align="center">
+  <img width="753" alt="EPFLLama" src="https://github.com/user-attachments/assets/4d681a49-d658-46d5-afdc-f8b2504f807c">
+</p>
+
+
 
 ## Project Overview
 

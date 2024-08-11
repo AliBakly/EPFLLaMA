@@ -12,6 +12,7 @@ EPFLLaMA is an innovative project that enhances the TinyLlama model through Supe
 - Incorporates quantization for reduced memory footprint
 
 ## Project Structure
+```
 EPFLLAMA
 │
 ├── README.md
@@ -64,6 +65,7 @@ EPFLLAMA
 │   └── project_report
 │       ├── ab-eh-me.pdf
 
+```
 ## Data Collection and Preparation
 
 The project utilizes various data sources:

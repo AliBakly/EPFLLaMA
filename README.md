@@ -74,7 +74,7 @@ The project utilizes various data sources:
 2. Stack Exchange datasets (Data Science, Computer Science, Physics, Mathematics)
 3. GPT-generated preference pairs
 
-Data collection scripts can be found in `data/annotation_scripts/`.
+Data collection scripts can be found in `model/models/data_processing.ipynb` and annotation scripts in `data/annotation_scripts`.
 
 ## Model Architecture
 

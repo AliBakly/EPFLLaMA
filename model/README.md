@@ -1,4 +1,4 @@
-# CS-552 MNLP 2024 Project M2 & M3 Description (Code Part)
+# CS-552 MNLP 2024 Project Description (Code Part)
 
 ## Project Description (Code Part)
 

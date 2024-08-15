@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-EPFLLaMA is an innovative project that enhances the TinyLlama model through Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO), utilizing datasets from student annotations and Stack Exchange. The project aims to create an AI tutor specialized in EPFL course content, with a particular focus on Multiple-Choice Question Answering (MCQA) tasks.
+EPFLLaMA is a project that enhances the TinyLlama model through Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO), utilizing datasets from student annotations and Stack Exchange. The project aims to create an AI tutor specialized in EPFL course content, with a particular focus on Multiple-Choice Question Answering (MCQA) tasks.
 
 ### Key Features
 
@@ -105,10 +105,9 @@ Additionally, the project explores:
 
 ## Model Improvements
 
-The project implements two main improvements:
+The project implements one main improvement:
 
-1. **RAG (Retrieval Augmented Generation)**: Enhances the model's ability to leverage external documents for better responses.
-2. **Quantization**: Reduces the model size while maintaining performance, using techniques like LLM.int8().
+**Quantization**: Reduces the model size while maintaining performance, using techniques like LLM.int8().
 
 ## Results and Evaluation
 

@@ -46,15 +46,16 @@ EPFLLAMA
 │   │
 │   ├── models
 │   │   ├── model_base.py
-│   │   ├── model_dpo.py
-│   │   ├── Create_Loss_Plots.ipynb
-│   │   ├── data_processing.ipynb
-│   │   ├── Evaluate.ipynb
-│   │   ├── evaluator.py
-│   │   ├── main_config.yaml
-│   │   ├── requirements.txt
-│   │   ├── Training.ipynb
-│   │   └── utils.py
+│   │   └── model_dpo.py
+│   │
+│   ├── Create_Loss_Plots.ipynb
+│   ├── data_processing.ipynb
+│   ├── Evaluate.ipynb
+│   ├── evaluator.py
+│   ├── main_config.yaml
+│   ├── requirements.txt
+│   ├── Training.ipynb
+│   └── utils.py
 │
 ├── pdfs
 │   ├── litterature_reviews

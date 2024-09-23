@@ -80,7 +80,7 @@ The project utilizes various data sources:
 2. Stack Exchange datasets (Data Science, Computer Science, Physics, Mathematics)
 3. GPT-generated preference pairs
 
-Data collection scripts can be found in `model/models/data_processing.ipynb` and annotation scripts in `data/annotation_scripts`.
+Data collection scripts can be found in [model/data_processing.ipynb](https://github.com/AliBakly/EPFLLaMA/blob/main/model/data_processing.ipynb) and annotation scripts in [data/annotation_scripts](https://github.com/AliBakly/EPFLLaMA/tree/main/data/annotation_scripts).
 
 ## Model Architecture
 
@@ -118,7 +118,11 @@ The EPFLLaMA model demonstrates:
 - Robust performance across various technical subjects
 - Effective adaptation for educational purposes
 
-Detailed results and analysis can be found in the project report (`pdfs/project_report/ab-eh-me.pdf`).
+Table 1 below showcases some of our results in terms of common NLP metrics.
+![image](https://github.com/user-attachments/assets/54752f47-52be-4f06-864a-51dcabba6975)
+
+
+Detailed results and analysis can be found in the project report [pdfs/project_report/ab-eh-me.pdf](https://github.com/AliBakly/EPFLLaMA/blob/main/pdfs/project_report/ab-eh-me.pdf).
 
 ## Getting Started
 
@@ -126,7 +130,7 @@ To use or contribute to this project:
 
 1. Clone the repository
 2. Install dependencies: `pip install -r model/models/requirements.txt`
-3. Explore the Jupyter notebooks in `model/models/` for training and evaluation
+3. Explore the Jupyter notebooks in [model](https://github.com/AliBakly/EPFLLaMA/tree/main/model) for training and evaluation
 
 To use our pre-trained models:
 
